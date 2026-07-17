@@ -1,53 +1,55 @@
 # Arcane Crystal NFT
 
-The **Arcane Crystal** is a core NFT asset in Rune Hero, directly tied to the game’s Energy system. Since all in-game production and progression require Energy, owning Arcane Crystals provides players with a significant strategic advantage. While free players receive a small amount of daily Energy, Arcane Crystal holders can greatly expand their potential activity and earnings.
+The **Arcane Crystal** is a utility NFT connected to Rune Hero’s Energy system.
+
+It provides additional Energy, can be upgraded to improve its quality, and may be rented to other players through the in-game marketplace.
 
 <figure><img src="../.gitbook/assets/20250814-163417.png" alt=""><figcaption></figcaption></figure>
 
-### **Utility**
+### Utility
 
-1.  #### **Increased Daily Energy Recovery**
+Players can equip **one Arcane Crystal** at a time.
 
-    * Each equipped Arcane Crystal provides **+300 Energy/day** in addition to the free daily regeneration.
-    * Players can equip up to **5 Arcane Crystals** simultaneously.
-    * Once equipped, an Arcane Crystal can only be removed the following day.
+An equipped Arcane Crystal provides:
 
+* Additional daily Energy recovery;
+* The ability to gain more Energy by charging it with Arcane Dust.
 
-2.  **Charging for Additional Energy**
+Each equipped Crystal can be charged once per day.
 
-    * Players can use **Dust** to charge an equipped Arcane Crystal once per day.
-    * Each charge grants **+700 Energy** to the player.
-    * Charging multiple Arcane Crystals in the same day significantly increases total available Energy, enabling more gameplay activities and higher potential rewards.
+### Quality and Upgrading
 
+Arcane Crystals can be upgraded to improve their quality.
 
+Higher-quality Crystals provide:
 
-### **Rent**
+* More Energy through daily recovery;
+* More Energy when charged with Arcane Dust.
 
-Arcane Crystals can be listed for rent in the in-game marketplace:
+Upgrade requirements and Energy values follow the current game version and may be adjusted as the Energy system is balanced.
 
-* Owners with multiple Arcane Crystals can lease them to other players for a set rental fee.
-* This system creates a **passive income stream** for NFT holders while allowing non-owners to temporarily boost their Energy capacity.
+### Rental
 
+Arcane Crystal owners can list unused Crystals for rent through the in-game marketplace.
 
+A renter can temporarily equip the rented Crystal and use its Energy utility. The owner receives the agreed rental fee.
 
-### **Economic Role**
+Rental prices and demand may vary according to Crystal quality, market supply, and player activity.
 
-Arcane Crystals serve as a long-term utility NFT with consistent in-game demand:
+### Economic Role
 
-* **For active players**: Maximizing Energy means more resource gathering, dungeon runs, and Outland expeditions — directly increasing $Soul earnings.
-* **For investors or casual players**: Leasing provides a steady return without the need for constant in-game activity.
-* **For the economy**: By limiting Energy generation, Arcane Crystals help regulate the pace of item/resource inflow, maintaining a healthy economic balance.
+Arcane Crystals give active players an optional way to increase their available Energy.
 
+Because only one Crystal can be equipped at a time, players must choose between using a Crystal, upgrading it, or listing unused Crystals for rent.
 
+The Crystal system also helps regulate the rate at which reward-generating activities produce equipment and resources.
 
-### **Sale Details**
+### Collection Details
 
-* **Total Supply**: 3600
+* **Total Supply:** 3,600
 * **Official Reserve:** 600
-* **Mint Price**: 180 Sei
+* **Original Mint Price:** 180 SEI
 
+### Marketplace
 
-
-### **Marketplace:**
-
-* **OpenSea**: [https://opensea.io/collection/runehero-arcanecrystal](https://opensea.io/collection/runehero-arcanecrystal)
+* **OpenSea:** [https://opensea.io/collection/runehero-arcanecrystal](https://opensea.io/collection/runehero-arcanecrystal)
