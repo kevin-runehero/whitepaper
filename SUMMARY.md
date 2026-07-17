@@ -6,7 +6,6 @@
 
 * [Characters](gameplay/characters.md)
 * [Equipment](gameplay/equipment.md)
-* [Page 1](gameplay/page-1.md)
 * [Item](gameplay/item.md)
 * [Energy](gameplay/energy.md)
 * [Guild](gameplay/guild.md)
