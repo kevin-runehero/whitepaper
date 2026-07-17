@@ -20,6 +20,7 @@
 ## Economy
 
 * [Economy Overview](economy/economy-overview.md)
+* [How to Earn](economy/how-to-earn.md)
 * [Philosophy](economy/philosophy.md)
 * [xRune: The Genesis NFT](economy/xrune-the-genesis-nft.md)
 * [Arcane Crystal NFT](economy/arcane-crystal-nft.md)
