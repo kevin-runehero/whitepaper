@@ -1,44 +1,54 @@
 # Energy
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-07-10_15-00-18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/UI_Crystal (1).png" alt=""><figcaption></figcaption></figure>
 
-**Energy** is a core gameplay resource in Rune Hero.\
-All in-game activities that generate rewards require Energy consumption, ensuring that both combat and non-combat progression are tied to strategic resource management.
+**Energy** is the main resource used to participate in reward-generating activities in Rune Hero.
 
-### **Energy Consumption**
+It limits the rate at which resources and equipment enter the game while allowing players to decide which activities matter most to their progression.
 
-Energy is required for:
+### Energy Consumption
 
-* **Life Skill** activities — resource gathering and item production.
-* **Dungeon** runs — entering and completing dungeons.
-* **Outland** activities — monster hunting, PvP combat, and Aetherite mining.
+Energy is consumed in the following ways:
 
+* **Dungeons** — Energy is deducted once when the player enters a dungeon.
+* **Outland** — Energy is deducted once when the player enters Outland.&#x20;
+* **Life Skills** — Gathering and production activities require Energy.
 
+Energy costs may vary by activity and game version.
 
-### **Daily Energy Recovery**
+### Daily Energy Recovery
 
-* Every player automatically regenerates **1000 Energy** per day.
-*   Players can equip **Arcane Crystals** to increase daily automatic Energy recovery.
+Every player receives a base amount of Energy through daily recovery.
 
-    * Each Arcane Crystal provides **+300 Energy/day**.
-    * Players can equip up to **5 Arcane Crystals** simultaneously.
+Players who want additional Energy can use the Crystal system to expand their daily activity.
 
+### Arcane Crystals
 
+Players can equip **one Arcane Crystal** at a time.
 
-### **Arcane Crystal Charging**
+An equipped Arcane Crystal provides additional daily Energy recovery and can be charged with **Arcane Dust** for more Energy.
 
-In addition to passive recovery, equipped Arcane Crystals can be **charged once per day** using **Dust**:
+Arcane Crystals can also be upgraded to improve their quality.
 
-* Each charging action grants **+700 Energy** for the specific Arcane Crystal.
-* Charging multiple Arcane Crystals in a day significantly boosts total available Energy, enabling more gameplay activities and higher potential earnings.
+Higher-quality Arcane Crystals provide:
 
+* More Energy through daily recovery;
+* More Energy when charged with Arcane Dust.
 
+Players who do not own an Arcane Crystal may **rent** one through the in-game marketplace.
 
-### **Strategic Implications**
+Detailed upgrading, charging, and rental rules are explained on the Arcane Crystal NFT page.
 
-Energy management adds depth to Rune Hero’s economy:
+### Damaged Crystals
 
-* Active players can maximize Energy usage to increase resource output and $Soul earnings.
-* Players may choose between passive recovery for steady play or invest in Arcane Crystals and Dust for high-intensity sessions.
-* Energy scarcity ensures long-term balance in item supply, maintaining the value of in-game resources.
+**Damaged Crystals** provide new players with an entry-level way to gain additional Energy and understand how the Crystal system works.
 
+They allow players to experience more early-game activities before deciding whether to rent or purchase an Arcane Crystal NFT.
+
+Their availability and usage rules follow the current game version.
+
+### Managing Energy
+
+Players can use Energy across combat, gathering, and production according to their available time and progression goals.
+
+Efficient Energy management is an important part of character development and the wider Rune Hero economy.
