@@ -19,7 +19,7 @@
 
 ## Economy
 
-* [Economic Cycle](economy/economic-cycle.md)
+* [Economy Overview](economy/economy-overview.md)
 * [Philosophy](economy/philosophy.md)
 * [xRune: The Genesis NFT](economy/xrune-the-genesis-nft.md)
 * [Arcane Crystal NFT](economy/arcane-crystal-nft.md)
