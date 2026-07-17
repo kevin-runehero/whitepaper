@@ -1,4 +1,4 @@
-# Page 1
+# Equipment
 
 Equipment is one of the main foundations of character development in Rune Hero.
 
@@ -96,8 +96,7 @@ Exact Luck values, upgrade requirements, and drop-rate balancing may be adjusted
 Players can obtain equipment through several activities, including:
 
 * Defeating monsters and dungeon bosses;
-* Completing quests and other objectives;
-* Participating in PvP activities;
+* Participating in PvEvP gameplay;
 * Exploring higher-difficulty content;
 * Collecting materials used to forge special equipment.
 
