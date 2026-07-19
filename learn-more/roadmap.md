@@ -26,21 +26,21 @@
 * ✅Character: Witch Doctor
 * ✅Closed Beta 1 Testing
 
-### 2026 Q1
+### 2026 Q1-Q2
 
 * Guild System
 * PvEvP
 * Economic Testing
 * Closed Beta 2 Testing
 
-### 2026 Q2
+### 2026 Q3-Q4
 
 * Character #4 Development
 * Balancing
 * Tournament System
 * Open Beta Testing
 
-### 2026+
+### 2027+
 
 * Season-Driven Operation
 * More Game Contents
