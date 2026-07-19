@@ -32,7 +32,8 @@
 
 * [Pre-Alpha Test (Complete)](game-build/pre-alpha-test-complete.md)
 * [Alpha Test (Complete)](game-build/alpha-test-complete.md)
-* [Season 0](game-build/season-0.md)
+* [Season 0 (Complete)](game-build/season-0-complete.md)
+* [CBT2](game-build/cbt2.md)
 
 ## Learn More
 
