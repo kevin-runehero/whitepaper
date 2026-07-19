@@ -28,9 +28,9 @@
 
 ### 2026 Q1-Q2
 
-* Guild System
-* PvEvP
-* Economic Testing
+* ✅Guild System
+* ✅PvEvP
+* ✅Economic Testing
 * Closed Beta 2 Testing
 
 ### 2026 Q3-Q4
