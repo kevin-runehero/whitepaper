@@ -55,10 +55,6 @@ Higher-quality upgrades require more Crystals in total.
 | Epic           | Rare Crystal x1 + Common Crystal x1      |
 | Legendary      | Epic Crystal x1 + Common Crystal x1      |
 
-The total shown above includes both the Primary Crystal and all Material Crystals required to reach the target quality.
-
-**Legendary** is the highest Arcane Crystal quality currently available.
-
 #### Energy by Crystal Quality
 
 Higher-quality Arcane Crystals provide more Energy through both daily recovery and charging.
