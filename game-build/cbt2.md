@@ -8,8 +8,8 @@ Players can progress through the game, compete individually or with their guilds
 
 ### Season Information
 
-* **Season Duration(UTC):** 31st July 12 a.m - 14th Aug 12 a.m
-* **Season Duration(HKT):** 31st July 8 a.m - 14th Aug 8 a.m
+* **Season Time(UTC):** 31st July 12 a.m - 14th Aug 12 a.m
+* **Season Time(HKT):** 31st July 8 a.m - 14th Aug 8 a.m
 * **Game Version:** v0.3.10
 * **Download:** [Download Rune Hero](https://runehero.itch.io/runehero)
 
