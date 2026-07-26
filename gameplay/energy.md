@@ -69,6 +69,10 @@ Higher-quality Arcane Crystals provide more Energy through both daily recovery a
 
 Energy values and upgrade requirements may be adjusted as the Energy system is balanced.
 
+> The more times you recharge each day, the less energy each recharge restores.
+
+
+
 #### Damaged Crystals
 
 **Damaged Crystals** provide new players with an entry-level way to gain additional Energy and understand how the Crystal system works.
@@ -77,6 +81,8 @@ They allow players to experience more early-game activities before deciding whet
 
 Their availability and usage rules follow the current game version.
 
+
+
 #### Crystal Rental
 
 Players who do not own an Arcane Crystal may rent one through the in-game marketplace.
@@ -84,6 +90,8 @@ Players who do not own an Arcane Crystal may rent one through the in-game market
 A rented Crystal temporarily provides its Energy utility to the renter, while the owner receives the agreed rental fee.
 
 Rental prices and availability depend on Crystal quality and marketplace supply.
+
+
 
 #### Managing Energy
 

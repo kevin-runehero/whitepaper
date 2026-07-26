@@ -116,7 +116,7 @@ Guild ranking follows these rules:
 Players who made eligible purchases during Season 0 can reclaim the following benefits in CBT2:
 
 * **Season Pass**, formerly known as the Battle Pass
-* **100% of the Arcane Dust purchased during Season 0**
+* Arcane Dust purchased during Season 0 (**excluding Advanced Welfare**)
 
 To claim the rewards:
 

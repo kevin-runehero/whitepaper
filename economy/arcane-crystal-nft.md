@@ -44,6 +44,10 @@ Because only one Crystal can be equipped at a time, players must choose between 
 
 The Crystal system also helps regulate the rate at which reward-generating activities produce equipment and resources.
 
+
+
+**Further reading:**  [Energy](https://app.gitbook.com/o/kfjH39xsvVUR7L6DeZHq/s/0cgzQNJpMhVFzJKCx9j7/~/edit/~/changes/78/gameplay/energy)
+
 ### Collection Details
 
 * **Total Supply:** 3,600
