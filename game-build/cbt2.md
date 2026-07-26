@@ -133,3 +133,5 @@ Rewards from the previous Arcane Crystal NFT mint are now available to claim.
 Eligible players can claim their rewards here:
 
 [Claim Crystal Minting Rewards](https://crystal.runehero.io/)
+
+> All reward can only be claimed during CBT2
